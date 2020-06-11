@@ -5,6 +5,8 @@ Just run the file
 ./TicTacToe
 
 If that doesn't help do this :
+
 chmod +x TicTacToe
+
 then ./TicTacToe
 
